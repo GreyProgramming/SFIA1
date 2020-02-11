@@ -1,14 +1,14 @@
 # Prideinyourself.com
 
-## The brief.
+## The brief
 
 To create a CRUD application with utilisation of supporting tools, methodologies and technologies that encapsulate all core modules covered during training.
 
-## The Concept
+## The concept
 
 I have been sat on the domain prideinyourself.com for over a year, with a plan to do *something* with it, though that plan has changed and evolved as I have started to work on other projects.
 
-As such, I plan to create a resource which houses stories about historical LGBTQ+ figures there.
+As such, I plan to create a resource which houses stories about historical LGBTQ+ figures there so that teens are able to quickly and easily find examples of role models.
 
 ## Risk assessment
 
