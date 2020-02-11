@@ -25,3 +25,11 @@ https://docs.google.com/document/d/11yscW6LF6Znjg37G4HJLpUCfrppOapm-UVRhJOHsnOI/
 The ERD was created using draw.io is available at:
 https://drive.google.com/file/d/11u3hhtPX3J5yBtt9x3uxw0sZ7yX8f5mE/view?usp=sharing
 
+
+
+
+
+
+### Future possibilities
+Lesson Plans - "Like for schools to use, if you make it user friendly teachers would use that kind of thing for gay pride month as it's on the curriculum" - C.L-C
+Promotion via content creators by hosting links to their work - pivot with stonewall & unions.
